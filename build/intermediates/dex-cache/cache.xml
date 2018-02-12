@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyFirebaseDispatcher/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0b6e7f40bf84e669c2b7669cbc08252ef48f9666">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyFirebaseDispatcher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f195fd51bbb3d8c477905f7dc6dfc51e8b7d71d2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/.android/build-cache/2b1a6a63b6e5ec5a96c093321ab0f8d069e18c3f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a91bdc0f8065d024f214ed8b33f8b3a79e4031c2">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyFirebaseDispatcher/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_057468dfffd73ffd741a7313344c45f65bc9b70a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyFirebaseDispatcher/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/adewijanugraha/AndroidStudioProjects/Dicoding/MyFirebaseDispatcher/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c95847541429433d1d0a5b1e1881df8e2c11dc90/classes.dex" />
+    </item>
+
+</items>
